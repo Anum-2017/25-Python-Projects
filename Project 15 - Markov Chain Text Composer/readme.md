@@ -2,8 +2,8 @@
 
 A powerful and interactive Streamlit web app that uses Markov Chains to generate text based on user input. Whether you're a writer, developer, or just curious, this app lets you experiment with language generation in a fun and visual way.
 
-![Markov Generator UI Screenshot](https://your-screenshot-url.com) <!-- Optional: Replace with your screenshot link -->
-
+**Streamlit link**: https://markov-chain-text-composer.streamlit.app/
+----
 ## 🚀 Features
 
 - **Real-time text generation** using customizable Markov Chain order.
